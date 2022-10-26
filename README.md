@@ -4,3 +4,4 @@
 ```
 src-git scut https://github.com/chengqingtan/openwrt-scutclient;main
 ```
+* 如果原仓库里已带有 scutclient 和 luci-app-scutclient  ，需要在 `./feed/script update -a` 后删除原仓库拉取的插件并修改.mk文件
