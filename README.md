@@ -1,4 +1,4 @@
-# openwrt-scutclient
+# 自用软件包合集
 * 源码来自 https://github.com/scutclient/luci-app-scutclient 和 https://github.com/scutclient/scutclient
 * 在 feeds.conf.default 内添加以下一行即可
 ```
